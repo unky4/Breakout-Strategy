@@ -84,7 +84,7 @@ From the QQ plots, we can further see that all distributions have fat tails (bot
 
 Once we have removed the outliers detected by the KS test, we can compare the log-returns with normal distributions. As we can see, our returns are now closer to a normal distribution.
 
-![Without Outliers](/images/results_without_outliers.png.png)
+![Without Outliers](/images/results_without_outliers.png)
 
 <a id='packages'></a>
 ### Packages and Files
